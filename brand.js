@@ -18,3 +18,4 @@ console.log(null ?? 0);
 console.log("Shuttegram = Instgram2021");
 
 
+console.log("For hacktober");
