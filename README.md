@@ -8,6 +8,6 @@ Made using php and bootstrap.
 * [x] update profile pic
 
 # Shuttergram
-This is a dummy instagram website created using bootstarp and php
+This is a dummy instagram website created using bootstrap and php
 good work
 
